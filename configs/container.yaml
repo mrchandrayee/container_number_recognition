@@ -1,0 +1,8 @@
+# Replace paths and class names with the dataset used to train your model.
+path: ../dataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: container
